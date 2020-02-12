@@ -10,11 +10,11 @@ const DEFAULT_WIDGETS = [
         avatar: null,
         gravatar: null,
         avatar_rounded: false,
-        follow_link: 'https://github.com/ppoffice',
+        follow_link: 'https://github.com/yinongqiu',
         social_links: {
             Github: {
                 icon: 'fab fa-github',
-                url: 'https://github.com/ppoffice'
+                url: 'https://github.com/yinongqiu'
             },
             Facebook: {
                 icon: 'fab fa-facebook',
@@ -43,7 +43,7 @@ const DEFAULT_WIDGETS = [
         position: 'left',
         links: {
             Hexo: 'https://hexo.io',
-            PPOffice: 'https://github.com/ppoffice'
+            Yinong: 'https://github.com/yinongqiu'
         }
     },
     {
